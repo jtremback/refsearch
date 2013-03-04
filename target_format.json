@@ -1,0 +1,14 @@
+[
+	{
+		"link" : "http://backbonejs.org/#Collection-extend",
+		"language" : "js",
+
+		"function-name" : "extend",
+		"param" : "(properties, [classProperties])",
+		"method-root" : "Backbone.Collection.",
+
+		"lib" : "underscore"
+	},
+	{},
+	{}
+]
