@@ -1,0 +1,4 @@
+.maininput {
+	border: none;
+	outline: none;
+}
