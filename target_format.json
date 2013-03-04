@@ -7,8 +7,19 @@
 		"param" : "(properties, [classProperties])",
 		"method-root" : "Backbone.Collection.",
 
-		"lib" : "underscore"
-	},
-	{},
-	{}
+		"lib" : "backbone"
+	}
+]
+
+
+SIMPLE FORMAT
+[
+	{
+		"link" : "http://backbonejs.org/#Collection-extend",
+		"language" : "js",
+
+		"func" : "object.stopListening([other], [event], [callback])"
+
+		"lib" : "backbone"
+	}
 ]

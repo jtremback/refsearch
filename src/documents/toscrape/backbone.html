@@ -1,4 +1,8 @@
-    <h2 id="Events">Backbone.Events</h2>
+---
+
+layout: "default"
+
+---
 
     <p>
       <b>Events</b> is a module that can be mixed in to any object, giving the
@@ -172,42 +176,6 @@ view.stopListening(model);
       <li><b>"all"</b> &mdash; this special event fires for <i>any</i> triggered event, passing the event name as the first argument. </li>
     </ul>
 
-    <h2 id="Model">Backbone.Model</h2>
-
-    <p>
-      <b>Models</b> are the heart of any JavaScript application, containing
-      the interactive data as well as a large part of the logic surrounding it:
-      conversions, validations, computed properties, and access control. You
-      extend <b>Backbone.Model</b> with your domain-specific methods, and
-      <b>Model</b> provides a basic set of functionality for managing changes.
-    </p>
-
-    <p>
-      The following is a contrived example, but it demonstrates defining a model
-      with a custom method, setting an attribute, and firing an event keyed
-      to changes in that specific attribute.
-      After running this code once, <tt>sidebar</tt> will be
-      available in your browser's console, so you can play around with it.
-    </p>
-
-<pre class="runnable">
-var Sidebar = Backbone.Model.extend({
-  promptColor: function() {
-    var cssColor = prompt("Please enter a CSS color:");
-    this.set({color: cssColor});
-  }
-});
-
-window.sidebar = new Sidebar;
-
-sidebar.on('change:color', function(model, color) {
-  $('#sidebar').css({background: color});
-});
-
-sidebar.set({color: 'white'});
-
-sidebar.promptColor();
-</pre>
 
     <p id="Model-extend">
       <b class="header">extend</b><code>Backbone.Model.extend(properties, [classProperties])</code>
@@ -783,7 +751,7 @@ bill.set({name : "Bill Jones"});
       an error occurs.
     </p>
 
-    <h2 id="Collection">Backbone.Collection</h2>
+
 
     <p>
       Collections are ordered sets of models. You can bind <tt>"change"</tt> events
@@ -1326,8 +1294,6 @@ var othello = nypl.create({
 });
 </pre>
 
-    <h2 id="Router">Backbone.Router</h2>
-
     <p>
       Web applications often provide linkable, bookmarkable, shareable URLs for
       important locations in the app. Until recently, hash fragments
@@ -1489,8 +1455,6 @@ app.navigate("help/troubleshooting", {trigger: true});
 app.navigate("help/troubleshooting", {trigger: true, replace: true});
 </pre>
 
-    <h2 id="History">Backbone.history</h2>
-
     <p>
       <b>History</b> serves as a global router (per frame) to handle <tt>hashchange</tt>
       events or <tt>pushState</tt>, match the appropriate route, and trigger callbacks. You shouldn't
@@ -1560,8 +1524,6 @@ $(function(){
   Backbone.history.start({pushState: true});
 });
 </pre>
-
-    <h2 id="Sync">Backbone.sync</h2>
 
     <p>
       <b>Backbone.sync</b> is the function that Backbone calls every time it
@@ -1671,7 +1633,6 @@ model.save();  // POST to "/collection/id", with "_method=PUT" + header.
       mime type, as if from an HTML form.
     </p>
 
-    <h2 id="View">Backbone.View</h2>
 
     <p>
       Backbone views are almost more convention than they are code &mdash; they
@@ -1952,8 +1913,6 @@ var DocumentView = Backbone.View.extend({
       Removes all of the view's delegated events. Useful if you want to disable
       or remove a view from the DOM temporarily.
     </p>
-
-    <h2 id="Utility">Utility</h2>
 
     <p id="Utility-Backbone-noConflict">
       <b class="header">Backbone.noConflict</b><code>var backbone = Backbone.noConflict();</code>

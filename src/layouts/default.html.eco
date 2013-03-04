@@ -1,0 +1,10 @@
+<html>
+	<head>
+		<%- @getBlock("meta").toHTML() %>
+		<%- @getBlock("styles").toHTML() %>
+	</head>
+	<body>
+		<%- @content %>
+		<%- @getBlock("scripts").add([ "/vendor/jquery191.js", "/scripts/script.js" ]).toHTML() %>
+	</body>
+</html>
