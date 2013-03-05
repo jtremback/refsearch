@@ -1,0 +1,19 @@
+---
+title: "Welcome!"
+layout: "default"
+isPage: true
+---
+
+
+<div id="func-list">
+  <input class="search"></input>
+  <ul class="list">
+    <% for item in @db: %>
+      <li>
+        <a href="<%- item.link %>">
+          <p class="func"><%- item.func %></p>
+        </a>
+      </li>
+    <% end %>
+  </ul>
+</div>
