@@ -5,6 +5,6 @@
 	</head>
 	<body>
 		<%- @content %>
-		<%- @getBlock("scripts").add([ "/vendor/jquery191.js", "/vendor/filter.js", "/scripts/script.js" ]).toHTML() %>
+		<%- @getBlock("scripts").add([ "/vendor/jquery191.js", "/vendor/list.js", "/scripts/script.js" ]).toHTML() %>
 	</body>
 </html>
