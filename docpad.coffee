@@ -1,4 +1,6 @@
 # Define the Configuration
+outPath: '.'
+
 docpadConfig = {
   templateData:
     site:
