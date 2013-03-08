@@ -14,14 +14,14 @@ LIB="`echo $line | cut -d "," -f4`"
 
 cat >> /tmp/JSON << EOL
 	{
-		"link" : $LINKZ,
-		"language" : $LANG,
+		"link" : "$LINKZ",
+		"language" : "$LANG",
 
-		"function-name" : $FUNCT,
+		"function-name" : "$FUNCT",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : $LIB
+		"lib" : "$LIB"
 	},
 EOL
 

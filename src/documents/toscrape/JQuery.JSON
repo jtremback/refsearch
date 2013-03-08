@@ -1,3052 +1,3050 @@
-[
 	{
-		"link" : http://api.jquery.com/add/,
-		"language" : js,
+		"link" : "http://api.jquery.com/add/",
+		"language" : "js",
 
-		"function-name" : add,
+		"function-name" : "add",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/addBack/,
-		"language" : js,
+		"link" : "http://api.jquery.com/addBack/",
+		"language" : "js",
 
-		"function-name" : addBack,
+		"function-name" : "addBack",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/addClass/,
-		"language" : js,
+		"link" : "http://api.jquery.com/addClass/",
+		"language" : "js",
 
-		"function-name" : addClass,
+		"function-name" : "addClass",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/after/,
-		"language" : js,
+		"link" : "http://api.jquery.com/after/",
+		"language" : "js",
 
-		"function-name" : after,
+		"function-name" : "after",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/ajaxComplete/,
-		"language" : js,
+		"link" : "http://api.jquery.com/ajaxComplete/",
+		"language" : "js",
 
-		"function-name" : ajaxComplete,
+		"function-name" : "ajaxComplete",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/ajaxError/,
-		"language" : js,
+		"link" : "http://api.jquery.com/ajaxError/",
+		"language" : "js",
 
-		"function-name" : ajaxError,
+		"function-name" : "ajaxError",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/ajaxSend/,
-		"language" : js,
+		"link" : "http://api.jquery.com/ajaxSend/",
+		"language" : "js",
 
-		"function-name" : ajaxSend,
+		"function-name" : "ajaxSend",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/ajaxStart/,
-		"language" : js,
+		"link" : "http://api.jquery.com/ajaxStart/",
+		"language" : "js",
 
-		"function-name" : ajaxStart,
+		"function-name" : "ajaxStart",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/ajaxStop/,
-		"language" : js,
+		"link" : "http://api.jquery.com/ajaxStop/",
+		"language" : "js",
 
-		"function-name" : ajaxStop,
+		"function-name" : "ajaxStop",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/ajaxSuccess/,
-		"language" : js,
+		"link" : "http://api.jquery.com/ajaxSuccess/",
+		"language" : "js",
 
-		"function-name" : ajaxSuccess,
+		"function-name" : "ajaxSuccess",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/all-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/all-selector/",
+		"language" : "js",
 
-		"function-name" : all-selector,
+		"function-name" : "all-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/andSelf/,
-		"language" : js,
+		"link" : "http://api.jquery.com/andSelf/",
+		"language" : "js",
 
-		"function-name" : andSelf,
+		"function-name" : "andSelf",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/animate/,
-		"language" : js,
+		"link" : "http://api.jquery.com/animate/",
+		"language" : "js",
 
-		"function-name" : animate,
+		"function-name" : "animate",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/animated-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/animated-selector/",
+		"language" : "js",
 
-		"function-name" : animated-selector,
+		"function-name" : "animated-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/append/,
-		"language" : js,
+		"link" : "http://api.jquery.com/append/",
+		"language" : "js",
 
-		"function-name" : append,
+		"function-name" : "append",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/appendTo/,
-		"language" : js,
+		"link" : "http://api.jquery.com/appendTo/",
+		"language" : "js",
 
-		"function-name" : appendTo,
+		"function-name" : "appendTo",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/attr/,
-		"language" : js,
+		"link" : "http://api.jquery.com/attr/",
+		"language" : "js",
 
-		"function-name" : attr,
+		"function-name" : "attr",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/attribute-contains-prefix-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/attribute-contains-prefix-selector/",
+		"language" : "js",
 
-		"function-name" : attribute-contains-prefix-selector,
+		"function-name" : "attribute-contains-prefix-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/attribute-contains-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/attribute-contains-selector/",
+		"language" : "js",
 
-		"function-name" : attribute-contains-selector,
+		"function-name" : "attribute-contains-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/attribute-contains-word-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/attribute-contains-word-selector/",
+		"language" : "js",
 
-		"function-name" : attribute-contains-word-selector,
+		"function-name" : "attribute-contains-word-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/attribute-ends-with-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/attribute-ends-with-selector/",
+		"language" : "js",
 
-		"function-name" : attribute-ends-with-selector,
+		"function-name" : "attribute-ends-with-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/attribute-equals-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/attribute-equals-selector/",
+		"language" : "js",
 
-		"function-name" : attribute-equals-selector,
+		"function-name" : "attribute-equals-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/attribute-not-equal-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/attribute-not-equal-selector/",
+		"language" : "js",
 
-		"function-name" : attribute-not-equal-selector,
+		"function-name" : "attribute-not-equal-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/attribute-starts-with-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/attribute-starts-with-selector/",
+		"language" : "js",
 
-		"function-name" : attribute-starts-with-selector,
+		"function-name" : "attribute-starts-with-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/before/,
-		"language" : js,
+		"link" : "http://api.jquery.com/before/",
+		"language" : "js",
 
-		"function-name" : before,
+		"function-name" : "before",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/bind/,
-		"language" : js,
+		"link" : "http://api.jquery.com/bind/",
+		"language" : "js",
 
-		"function-name" : bind,
+		"function-name" : "bind",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/blur/,
-		"language" : js,
+		"link" : "http://api.jquery.com/blur/",
+		"language" : "js",
 
-		"function-name" : blur,
+		"function-name" : "blur",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/button-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/button-selector/",
+		"language" : "js",
 
-		"function-name" : button-selector,
+		"function-name" : "button-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/callbacks.add/,
-		"language" : js,
+		"link" : "http://api.jquery.com/callbacks.add/",
+		"language" : "js",
 
-		"function-name" : callbacks.add,
+		"function-name" : "callbacks.add",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/callbacks.disable/,
-		"language" : js,
+		"link" : "http://api.jquery.com/callbacks.disable/",
+		"language" : "js",
 
-		"function-name" : callbacks.disable,
+		"function-name" : "callbacks.disable",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/callbacks.disabled/,
-		"language" : js,
+		"link" : "http://api.jquery.com/callbacks.disabled/",
+		"language" : "js",
 
-		"function-name" : callbacks.disabled,
+		"function-name" : "callbacks.disabled",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/callbacks.empty/,
-		"language" : js,
+		"link" : "http://api.jquery.com/callbacks.empty/",
+		"language" : "js",
 
-		"function-name" : callbacks.empty,
+		"function-name" : "callbacks.empty",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/callbacks.fire/,
-		"language" : js,
+		"link" : "http://api.jquery.com/callbacks.fire/",
+		"language" : "js",
 
-		"function-name" : callbacks.fire,
+		"function-name" : "callbacks.fire",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/callbacks.fired/,
-		"language" : js,
+		"link" : "http://api.jquery.com/callbacks.fired/",
+		"language" : "js",
 
-		"function-name" : callbacks.fired,
+		"function-name" : "callbacks.fired",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/callbacks.fireWith/,
-		"language" : js,
+		"link" : "http://api.jquery.com/callbacks.fireWith/",
+		"language" : "js",
 
-		"function-name" : callbacks.fireWith,
+		"function-name" : "callbacks.fireWith",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/callbacks.has/,
-		"language" : js,
+		"link" : "http://api.jquery.com/callbacks.has/",
+		"language" : "js",
 
-		"function-name" : callbacks.has,
+		"function-name" : "callbacks.has",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/callbacks.lock/,
-		"language" : js,
+		"link" : "http://api.jquery.com/callbacks.lock/",
+		"language" : "js",
 
-		"function-name" : callbacks.lock,
+		"function-name" : "callbacks.lock",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/callbacks.locked/,
-		"language" : js,
+		"link" : "http://api.jquery.com/callbacks.locked/",
+		"language" : "js",
 
-		"function-name" : callbacks.locked,
+		"function-name" : "callbacks.locked",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/callbacks.remove/,
-		"language" : js,
+		"link" : "http://api.jquery.com/callbacks.remove/",
+		"language" : "js",
 
-		"function-name" : callbacks.remove,
+		"function-name" : "callbacks.remove",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/change/,
-		"language" : js,
+		"link" : "http://api.jquery.com/change/",
+		"language" : "js",
 
-		"function-name" : change,
+		"function-name" : "change",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/checkbox-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/checkbox-selector/",
+		"language" : "js",
 
-		"function-name" : checkbox-selector,
+		"function-name" : "checkbox-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/checked-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/checked-selector/",
+		"language" : "js",
 
-		"function-name" : checked-selector,
+		"function-name" : "checked-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/child-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/child-selector/",
+		"language" : "js",
 
-		"function-name" : child-selector,
+		"function-name" : "child-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/children/,
-		"language" : js,
+		"link" : "http://api.jquery.com/children/",
+		"language" : "js",
 
-		"function-name" : children,
+		"function-name" : "children",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/class-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/class-selector/",
+		"language" : "js",
 
-		"function-name" : class-selector,
+		"function-name" : "class-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/clearQueue/,
-		"language" : js,
+		"link" : "http://api.jquery.com/clearQueue/",
+		"language" : "js",
 
-		"function-name" : clearQueue,
+		"function-name" : "clearQueue",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/click/,
-		"language" : js,
+		"link" : "http://api.jquery.com/click/",
+		"language" : "js",
 
-		"function-name" : click,
+		"function-name" : "click",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/clone/,
-		"language" : js,
+		"link" : "http://api.jquery.com/clone/",
+		"language" : "js",
 
-		"function-name" : clone,
+		"function-name" : "clone",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/closest/,
-		"language" : js,
+		"link" : "http://api.jquery.com/closest/",
+		"language" : "js",
 
-		"function-name" : closest,
+		"function-name" : "closest",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/contains-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/contains-selector/",
+		"language" : "js",
 
-		"function-name" : contains-selector,
+		"function-name" : "contains-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/contents/,
-		"language" : js,
+		"link" : "http://api.jquery.com/contents/",
+		"language" : "js",
 
-		"function-name" : contents,
+		"function-name" : "contents",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/context/,
-		"language" : js,
+		"link" : "http://api.jquery.com/context/",
+		"language" : "js",
 
-		"function-name" : context,
+		"function-name" : "context",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/css/,
-		"language" : js,
+		"link" : "http://api.jquery.com/css/",
+		"language" : "js",
 
-		"function-name" : css,
+		"function-name" : "css",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/data/,
-		"language" : js,
+		"link" : "http://api.jquery.com/data/",
+		"language" : "js",
 
-		"function-name" : data,
+		"function-name" : "data",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/dblclick/,
-		"language" : js,
+		"link" : "http://api.jquery.com/dblclick/",
+		"language" : "js",
 
-		"function-name" : dblclick,
+		"function-name" : "dblclick",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/deferred.always/,
-		"language" : js,
+		"link" : "http://api.jquery.com/deferred.always/",
+		"language" : "js",
 
-		"function-name" : deferred.always,
+		"function-name" : "deferred.always",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/deferred.done/,
-		"language" : js,
+		"link" : "http://api.jquery.com/deferred.done/",
+		"language" : "js",
 
-		"function-name" : deferred.done,
+		"function-name" : "deferred.done",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/deferred.fail/,
-		"language" : js,
+		"link" : "http://api.jquery.com/deferred.fail/",
+		"language" : "js",
 
-		"function-name" : deferred.fail,
+		"function-name" : "deferred.fail",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/deferred.isRejected/,
-		"language" : js,
+		"link" : "http://api.jquery.com/deferred.isRejected/",
+		"language" : "js",
 
-		"function-name" : deferred.isRejected,
+		"function-name" : "deferred.isRejected",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/deferred.isResolved/,
-		"language" : js,
+		"link" : "http://api.jquery.com/deferred.isResolved/",
+		"language" : "js",
 
-		"function-name" : deferred.isResolved,
+		"function-name" : "deferred.isResolved",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/deferred.notify/,
-		"language" : js,
+		"link" : "http://api.jquery.com/deferred.notify/",
+		"language" : "js",
 
-		"function-name" : deferred.notify,
+		"function-name" : "deferred.notify",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/deferred.notifyWith/,
-		"language" : js,
+		"link" : "http://api.jquery.com/deferred.notifyWith/",
+		"language" : "js",
 
-		"function-name" : deferred.notifyWith,
+		"function-name" : "deferred.notifyWith",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/deferred.pipe/,
-		"language" : js,
+		"link" : "http://api.jquery.com/deferred.pipe/",
+		"language" : "js",
 
-		"function-name" : deferred.pipe,
+		"function-name" : "deferred.pipe",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/deferred.progress/,
-		"language" : js,
+		"link" : "http://api.jquery.com/deferred.progress/",
+		"language" : "js",
 
-		"function-name" : deferred.progress,
+		"function-name" : "deferred.progress",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/deferred.promise/,
-		"language" : js,
+		"link" : "http://api.jquery.com/deferred.promise/",
+		"language" : "js",
 
-		"function-name" : deferred.promise,
+		"function-name" : "deferred.promise",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/deferred.reject/,
-		"language" : js,
+		"link" : "http://api.jquery.com/deferred.reject/",
+		"language" : "js",
 
-		"function-name" : deferred.reject,
+		"function-name" : "deferred.reject",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/deferred.rejectWith/,
-		"language" : js,
+		"link" : "http://api.jquery.com/deferred.rejectWith/",
+		"language" : "js",
 
-		"function-name" : deferred.rejectWith,
+		"function-name" : "deferred.rejectWith",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/deferred.resolve/,
-		"language" : js,
+		"link" : "http://api.jquery.com/deferred.resolve/",
+		"language" : "js",
 
-		"function-name" : deferred.resolve,
+		"function-name" : "deferred.resolve",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/deferred.resolveWith/,
-		"language" : js,
+		"link" : "http://api.jquery.com/deferred.resolveWith/",
+		"language" : "js",
 
-		"function-name" : deferred.resolveWith,
+		"function-name" : "deferred.resolveWith",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/deferred.state/,
-		"language" : js,
+		"link" : "http://api.jquery.com/deferred.state/",
+		"language" : "js",
 
-		"function-name" : deferred.state,
+		"function-name" : "deferred.state",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/deferred.then/,
-		"language" : js,
+		"link" : "http://api.jquery.com/deferred.then/",
+		"language" : "js",
 
-		"function-name" : deferred.then,
+		"function-name" : "deferred.then",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/delay/,
-		"language" : js,
+		"link" : "http://api.jquery.com/delay/",
+		"language" : "js",
 
-		"function-name" : delay,
+		"function-name" : "delay",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/delegate/,
-		"language" : js,
+		"link" : "http://api.jquery.com/delegate/",
+		"language" : "js",
 
-		"function-name" : delegate,
+		"function-name" : "delegate",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/dequeue/,
-		"language" : js,
+		"link" : "http://api.jquery.com/dequeue/",
+		"language" : "js",
 
-		"function-name" : dequeue,
+		"function-name" : "dequeue",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/descendant-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/descendant-selector/",
+		"language" : "js",
 
-		"function-name" : descendant-selector,
+		"function-name" : "descendant-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/detach/,
-		"language" : js,
+		"link" : "http://api.jquery.com/detach/",
+		"language" : "js",
 
-		"function-name" : detach,
+		"function-name" : "detach",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/die/,
-		"language" : js,
+		"link" : "http://api.jquery.com/die/",
+		"language" : "js",
 
-		"function-name" : die,
+		"function-name" : "die",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/disabled-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/disabled-selector/",
+		"language" : "js",
 
-		"function-name" : disabled-selector,
+		"function-name" : "disabled-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/each/,
-		"language" : js,
+		"link" : "http://api.jquery.com/each/",
+		"language" : "js",
 
-		"function-name" : each,
+		"function-name" : "each",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/element-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/element-selector/",
+		"language" : "js",
 
-		"function-name" : element-selector,
+		"function-name" : "element-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/empty-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/empty-selector/",
+		"language" : "js",
 
-		"function-name" : empty-selector,
+		"function-name" : "empty-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/empty/,
-		"language" : js,
+		"link" : "http://api.jquery.com/empty/",
+		"language" : "js",
 
-		"function-name" : empty,
+		"function-name" : "empty",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/enabled-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/enabled-selector/",
+		"language" : "js",
 
-		"function-name" : enabled-selector,
+		"function-name" : "enabled-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/end/,
-		"language" : js,
+		"link" : "http://api.jquery.com/end/",
+		"language" : "js",
 
-		"function-name" : end,
+		"function-name" : "end",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/eq-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/eq-selector/",
+		"language" : "js",
 
-		"function-name" : eq-selector,
+		"function-name" : "eq-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/eq/,
-		"language" : js,
+		"link" : "http://api.jquery.com/eq/",
+		"language" : "js",
 
-		"function-name" : eq,
+		"function-name" : "eq",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/error/,
-		"language" : js,
+		"link" : "http://api.jquery.com/error/",
+		"language" : "js",
 
-		"function-name" : error,
+		"function-name" : "error",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/even-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/even-selector/",
+		"language" : "js",
 
-		"function-name" : even-selector,
+		"function-name" : "even-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/event.currentTarget/,
-		"language" : js,
+		"link" : "http://api.jquery.com/event.currentTarget/",
+		"language" : "js",
 
-		"function-name" : event.currentTarget,
+		"function-name" : "event.currentTarget",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/event.data/,
-		"language" : js,
+		"link" : "http://api.jquery.com/event.data/",
+		"language" : "js",
 
-		"function-name" : event.data,
+		"function-name" : "event.data",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/event.delegateTarget/,
-		"language" : js,
+		"link" : "http://api.jquery.com/event.delegateTarget/",
+		"language" : "js",
 
-		"function-name" : event.delegateTarget,
+		"function-name" : "event.delegateTarget",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/event.isDefaultPrevented/,
-		"language" : js,
+		"link" : "http://api.jquery.com/event.isDefaultPrevented/",
+		"language" : "js",
 
-		"function-name" : event.isDefaultPrevented,
+		"function-name" : "event.isDefaultPrevented",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/event.isImmediatePropagationStopped/,
-		"language" : js,
+		"link" : "http://api.jquery.com/event.isImmediatePropagationStopped/",
+		"language" : "js",
 
-		"function-name" : event.isImmediatePropagationStopped,
+		"function-name" : "event.isImmediatePropagationStopped",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/event.isPropagationStopped/,
-		"language" : js,
+		"link" : "http://api.jquery.com/event.isPropagationStopped/",
+		"language" : "js",
 
-		"function-name" : event.isPropagationStopped,
+		"function-name" : "event.isPropagationStopped",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/event.metaKey/,
-		"language" : js,
+		"link" : "http://api.jquery.com/event.metaKey/",
+		"language" : "js",
 
-		"function-name" : event.metaKey,
+		"function-name" : "event.metaKey",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/event.namespace/,
-		"language" : js,
+		"link" : "http://api.jquery.com/event.namespace/",
+		"language" : "js",
 
-		"function-name" : event.namespace,
+		"function-name" : "event.namespace",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/event.pageX/,
-		"language" : js,
+		"link" : "http://api.jquery.com/event.pageX/",
+		"language" : "js",
 
-		"function-name" : event.pageX,
+		"function-name" : "event.pageX",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/event.pageY/,
-		"language" : js,
+		"link" : "http://api.jquery.com/event.pageY/",
+		"language" : "js",
 
-		"function-name" : event.pageY,
+		"function-name" : "event.pageY",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/event.preventDefault/,
-		"language" : js,
+		"link" : "http://api.jquery.com/event.preventDefault/",
+		"language" : "js",
 
-		"function-name" : event.preventDefault,
+		"function-name" : "event.preventDefault",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/event.relatedTarget/,
-		"language" : js,
+		"link" : "http://api.jquery.com/event.relatedTarget/",
+		"language" : "js",
 
-		"function-name" : event.relatedTarget,
+		"function-name" : "event.relatedTarget",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/event.result/,
-		"language" : js,
+		"link" : "http://api.jquery.com/event.result/",
+		"language" : "js",
 
-		"function-name" : event.result,
+		"function-name" : "event.result",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/event.stopImmediatePropagation/,
-		"language" : js,
+		"link" : "http://api.jquery.com/event.stopImmediatePropagation/",
+		"language" : "js",
 
-		"function-name" : event.stopImmediatePropagation,
+		"function-name" : "event.stopImmediatePropagation",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/event.stopPropagation/,
-		"language" : js,
+		"link" : "http://api.jquery.com/event.stopPropagation/",
+		"language" : "js",
 
-		"function-name" : event.stopPropagation,
+		"function-name" : "event.stopPropagation",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/event.target/,
-		"language" : js,
+		"link" : "http://api.jquery.com/event.target/",
+		"language" : "js",
 
-		"function-name" : event.target,
+		"function-name" : "event.target",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/event.timeStamp/,
-		"language" : js,
+		"link" : "http://api.jquery.com/event.timeStamp/",
+		"language" : "js",
 
-		"function-name" : event.timeStamp,
+		"function-name" : "event.timeStamp",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/event.type/,
-		"language" : js,
+		"link" : "http://api.jquery.com/event.type/",
+		"language" : "js",
 
-		"function-name" : event.type,
+		"function-name" : "event.type",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/event.which/,
-		"language" : js,
+		"link" : "http://api.jquery.com/event.which/",
+		"language" : "js",
 
-		"function-name" : event.which,
+		"function-name" : "event.which",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/fadeIn/,
-		"language" : js,
+		"link" : "http://api.jquery.com/fadeIn/",
+		"language" : "js",
 
-		"function-name" : fadeIn,
+		"function-name" : "fadeIn",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/fadeOut/,
-		"language" : js,
+		"link" : "http://api.jquery.com/fadeOut/",
+		"language" : "js",
 
-		"function-name" : fadeOut,
+		"function-name" : "fadeOut",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/fadeTo/,
-		"language" : js,
+		"link" : "http://api.jquery.com/fadeTo/",
+		"language" : "js",
 
-		"function-name" : fadeTo,
+		"function-name" : "fadeTo",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/fadeToggle/,
-		"language" : js,
+		"link" : "http://api.jquery.com/fadeToggle/",
+		"language" : "js",
 
-		"function-name" : fadeToggle,
+		"function-name" : "fadeToggle",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/file-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/file-selector/",
+		"language" : "js",
 
-		"function-name" : file-selector,
+		"function-name" : "file-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/filter/,
-		"language" : js,
+		"link" : "http://api.jquery.com/filter/",
+		"language" : "js",
 
-		"function-name" : filter,
+		"function-name" : "filter",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/find/,
-		"language" : js,
+		"link" : "http://api.jquery.com/find/",
+		"language" : "js",
 
-		"function-name" : find,
+		"function-name" : "find",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/finish/,
-		"language" : js,
+		"link" : "http://api.jquery.com/finish/",
+		"language" : "js",
 
-		"function-name" : finish,
+		"function-name" : "finish",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/first-child-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/first-child-selector/",
+		"language" : "js",
 
-		"function-name" : first-child-selector,
+		"function-name" : "first-child-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/first-of-type-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/first-of-type-selector/",
+		"language" : "js",
 
-		"function-name" : first-of-type-selector,
+		"function-name" : "first-of-type-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/first-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/first-selector/",
+		"language" : "js",
 
-		"function-name" : first-selector,
+		"function-name" : "first-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/first/,
-		"language" : js,
+		"link" : "http://api.jquery.com/first/",
+		"language" : "js",
 
-		"function-name" : first,
+		"function-name" : "first",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/focus-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/focus-selector/",
+		"language" : "js",
 
-		"function-name" : focus-selector,
+		"function-name" : "focus-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/focus/,
-		"language" : js,
+		"link" : "http://api.jquery.com/focus/",
+		"language" : "js",
 
-		"function-name" : focus,
+		"function-name" : "focus",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/focusin/,
-		"language" : js,
+		"link" : "http://api.jquery.com/focusin/",
+		"language" : "js",
 
-		"function-name" : focusin,
+		"function-name" : "focusin",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/focusout/,
-		"language" : js,
+		"link" : "http://api.jquery.com/focusout/",
+		"language" : "js",
 
-		"function-name" : focusout,
+		"function-name" : "focusout",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/get/,
-		"language" : js,
+		"link" : "http://api.jquery.com/get/",
+		"language" : "js",
 
-		"function-name" : get,
+		"function-name" : "get",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/gt-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/gt-selector/",
+		"language" : "js",
 
-		"function-name" : gt-selector,
+		"function-name" : "gt-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/has-attribute-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/has-attribute-selector/",
+		"language" : "js",
 
-		"function-name" : has-attribute-selector,
+		"function-name" : "has-attribute-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/has-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/has-selector/",
+		"language" : "js",
 
-		"function-name" : has-selector,
+		"function-name" : "has-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/has/,
-		"language" : js,
+		"link" : "http://api.jquery.com/has/",
+		"language" : "js",
 
-		"function-name" : has,
+		"function-name" : "has",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/hasClass/,
-		"language" : js,
+		"link" : "http://api.jquery.com/hasClass/",
+		"language" : "js",
 
-		"function-name" : hasClass,
+		"function-name" : "hasClass",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/header-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/header-selector/",
+		"language" : "js",
 
-		"function-name" : header-selector,
+		"function-name" : "header-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/height/,
-		"language" : js,
+		"link" : "http://api.jquery.com/height/",
+		"language" : "js",
 
-		"function-name" : height,
+		"function-name" : "height",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/hidden-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/hidden-selector/",
+		"language" : "js",
 
-		"function-name" : hidden-selector,
+		"function-name" : "hidden-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/hide/,
-		"language" : js,
+		"link" : "http://api.jquery.com/hide/",
+		"language" : "js",
 
-		"function-name" : hide,
+		"function-name" : "hide",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/hover/,
-		"language" : js,
+		"link" : "http://api.jquery.com/hover/",
+		"language" : "js",
 
-		"function-name" : hover,
+		"function-name" : "hover",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/html/,
-		"language" : js,
+		"link" : "http://api.jquery.com/html/",
+		"language" : "js",
 
-		"function-name" : html,
+		"function-name" : "html",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/id-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/id-selector/",
+		"language" : "js",
 
-		"function-name" : id-selector,
+		"function-name" : "id-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/image-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/image-selector/",
+		"language" : "js",
 
-		"function-name" : image-selector,
+		"function-name" : "image-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/index/,
-		"language" : js,
+		"link" : "http://api.jquery.com/index/",
+		"language" : "js",
 
-		"function-name" : index,
+		"function-name" : "index",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/innerHeight/,
-		"language" : js,
+		"link" : "http://api.jquery.com/innerHeight/",
+		"language" : "js",
 
-		"function-name" : innerHeight,
+		"function-name" : "innerHeight",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/innerWidth/,
-		"language" : js,
+		"link" : "http://api.jquery.com/innerWidth/",
+		"language" : "js",
 
-		"function-name" : innerWidth,
+		"function-name" : "innerWidth",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/input-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/input-selector/",
+		"language" : "js",
 
-		"function-name" : input-selector,
+		"function-name" : "input-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/insertAfter/,
-		"language" : js,
+		"link" : "http://api.jquery.com/insertAfter/",
+		"language" : "js",
 
-		"function-name" : insertAfter,
+		"function-name" : "insertAfter",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/insertBefore/,
-		"language" : js,
+		"link" : "http://api.jquery.com/insertBefore/",
+		"language" : "js",
 
-		"function-name" : insertBefore,
+		"function-name" : "insertBefore",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/is/,
-		"language" : js,
+		"link" : "http://api.jquery.com/is/",
+		"language" : "js",
 
-		"function-name" : is,
+		"function-name" : "is",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jquery-2/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jquery-2/",
+		"language" : "js",
 
-		"function-name" : jquery-2,
+		"function-name" : "jquery-2",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.ajax/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.ajax/",
+		"language" : "js",
 
-		"function-name" : jQuery.ajax,
+		"function-name" : "jQuery.ajax",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.ajaxPrefilter/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.ajaxPrefilter/",
+		"language" : "js",
 
-		"function-name" : jQuery.ajaxPrefilter,
+		"function-name" : "jQuery.ajaxPrefilter",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.ajaxSetup/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.ajaxSetup/",
+		"language" : "js",
 
-		"function-name" : jQuery.ajaxSetup,
+		"function-name" : "jQuery.ajaxSetup",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.ajaxTransport/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.ajaxTransport/",
+		"language" : "js",
 
-		"function-name" : jQuery.ajaxTransport,
+		"function-name" : "jQuery.ajaxTransport",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.boxModel/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.boxModel/",
+		"language" : "js",
 
-		"function-name" : jQuery.boxModel,
+		"function-name" : "jQuery.boxModel",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.browser/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.browser/",
+		"language" : "js",
 
-		"function-name" : jQuery.browser,
+		"function-name" : "jQuery.browser",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.Callbacks/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.Callbacks/",
+		"language" : "js",
 
-		"function-name" : jQuery.Callbacks,
+		"function-name" : "jQuery.Callbacks",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.contains/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.contains/",
+		"language" : "js",
 
-		"function-name" : jQuery.contains,
+		"function-name" : "jQuery.contains",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.cssHooks/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.cssHooks/",
+		"language" : "js",
 
-		"function-name" : jQuery.cssHooks,
+		"function-name" : "jQuery.cssHooks",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.data/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.data/",
+		"language" : "js",
 
-		"function-name" : jQuery.data,
+		"function-name" : "jQuery.data",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.Deferred/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.Deferred/",
+		"language" : "js",
 
-		"function-name" : jQuery.Deferred,
+		"function-name" : "jQuery.Deferred",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.dequeue/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.dequeue/",
+		"language" : "js",
 
-		"function-name" : jQuery.dequeue,
+		"function-name" : "jQuery.dequeue",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.each/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.each/",
+		"language" : "js",
 
-		"function-name" : jQuery.each,
+		"function-name" : "jQuery.each",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.error/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.error/",
+		"language" : "js",
 
-		"function-name" : jQuery.error,
+		"function-name" : "jQuery.error",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.extend/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.extend/",
+		"language" : "js",
 
-		"function-name" : jQuery.extend,
+		"function-name" : "jQuery.extend",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.fx.interval/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.fx.interval/",
+		"language" : "js",
 
-		"function-name" : jQuery.fx.interval,
+		"function-name" : "jQuery.fx.interval",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.fx.off/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.fx.off/",
+		"language" : "js",
 
-		"function-name" : jQuery.fx.off,
+		"function-name" : "jQuery.fx.off",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.get/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.get/",
+		"language" : "js",
 
-		"function-name" : jQuery.get,
+		"function-name" : "jQuery.get",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.getJSON/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.getJSON/",
+		"language" : "js",
 
-		"function-name" : jQuery.getJSON,
+		"function-name" : "jQuery.getJSON",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.getScript/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.getScript/",
+		"language" : "js",
 
-		"function-name" : jQuery.getScript,
+		"function-name" : "jQuery.getScript",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.globalEval/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.globalEval/",
+		"language" : "js",
 
-		"function-name" : jQuery.globalEval,
+		"function-name" : "jQuery.globalEval",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.grep/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.grep/",
+		"language" : "js",
 
-		"function-name" : jQuery.grep,
+		"function-name" : "jQuery.grep",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.hasData/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.hasData/",
+		"language" : "js",
 
-		"function-name" : jQuery.hasData,
+		"function-name" : "jQuery.hasData",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.holdReady/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.holdReady/",
+		"language" : "js",
 
-		"function-name" : jQuery.holdReady,
+		"function-name" : "jQuery.holdReady",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.inArray/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.inArray/",
+		"language" : "js",
 
-		"function-name" : jQuery.inArray,
+		"function-name" : "jQuery.inArray",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.isArray/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.isArray/",
+		"language" : "js",
 
-		"function-name" : jQuery.isArray,
+		"function-name" : "jQuery.isArray",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.isEmptyObject/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.isEmptyObject/",
+		"language" : "js",
 
-		"function-name" : jQuery.isEmptyObject,
+		"function-name" : "jQuery.isEmptyObject",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.isFunction/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.isFunction/",
+		"language" : "js",
 
-		"function-name" : jQuery.isFunction,
+		"function-name" : "jQuery.isFunction",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.isNumeric/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.isNumeric/",
+		"language" : "js",
 
-		"function-name" : jQuery.isNumeric,
+		"function-name" : "jQuery.isNumeric",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.isPlainObject/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.isPlainObject/",
+		"language" : "js",
 
-		"function-name" : jQuery.isPlainObject,
+		"function-name" : "jQuery.isPlainObject",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.isWindow/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.isWindow/",
+		"language" : "js",
 
-		"function-name" : jQuery.isWindow,
+		"function-name" : "jQuery.isWindow",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.isXMLDoc/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.isXMLDoc/",
+		"language" : "js",
 
-		"function-name" : jQuery.isXMLDoc,
+		"function-name" : "jQuery.isXMLDoc",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.makeArray/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.makeArray/",
+		"language" : "js",
 
-		"function-name" : jQuery.makeArray,
+		"function-name" : "jQuery.makeArray",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.map/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.map/",
+		"language" : "js",
 
-		"function-name" : jQuery.map,
+		"function-name" : "jQuery.map",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.merge/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.merge/",
+		"language" : "js",
 
-		"function-name" : jQuery.merge,
+		"function-name" : "jQuery.merge",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.noConflict/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.noConflict/",
+		"language" : "js",
 
-		"function-name" : jQuery.noConflict,
+		"function-name" : "jQuery.noConflict",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.noop/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.noop/",
+		"language" : "js",
 
-		"function-name" : jQuery.noop,
+		"function-name" : "jQuery.noop",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.now/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.now/",
+		"language" : "js",
 
-		"function-name" : jQuery.now,
+		"function-name" : "jQuery.now",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.param/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.param/",
+		"language" : "js",
 
-		"function-name" : jQuery.param,
+		"function-name" : "jQuery.param",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.parseHTML/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.parseHTML/",
+		"language" : "js",
 
-		"function-name" : jQuery.parseHTML,
+		"function-name" : "jQuery.parseHTML",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.parseJSON/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.parseJSON/",
+		"language" : "js",
 
-		"function-name" : jQuery.parseJSON,
+		"function-name" : "jQuery.parseJSON",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.parseXML/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.parseXML/",
+		"language" : "js",
 
-		"function-name" : jQuery.parseXML,
+		"function-name" : "jQuery.parseXML",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.post/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.post/",
+		"language" : "js",
 
-		"function-name" : jQuery.post,
+		"function-name" : "jQuery.post",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.proxy/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.proxy/",
+		"language" : "js",
 
-		"function-name" : jQuery.proxy,
+		"function-name" : "jQuery.proxy",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.queue/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.queue/",
+		"language" : "js",
 
-		"function-name" : jQuery.queue,
+		"function-name" : "jQuery.queue",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.removeData/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.removeData/",
+		"language" : "js",
 
-		"function-name" : jQuery.removeData,
+		"function-name" : "jQuery.removeData",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.sub/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.sub/",
+		"language" : "js",
 
-		"function-name" : jQuery.sub,
+		"function-name" : "jQuery.sub",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.support/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.support/",
+		"language" : "js",
 
-		"function-name" : jQuery.support,
+		"function-name" : "jQuery.support",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.trim/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.trim/",
+		"language" : "js",
 
-		"function-name" : jQuery.trim,
+		"function-name" : "jQuery.trim",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.type/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.type/",
+		"language" : "js",
 
-		"function-name" : jQuery.type,
+		"function-name" : "jQuery.type",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.unique/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.unique/",
+		"language" : "js",
 
-		"function-name" : jQuery.unique,
+		"function-name" : "jQuery.unique",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery.when/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery.when/",
+		"language" : "js",
 
-		"function-name" : jQuery.when,
+		"function-name" : "jQuery.when",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/jQuery/,
-		"language" : js,
+		"link" : "http://api.jquery.com/jQuery/",
+		"language" : "js",
 
-		"function-name" : jQuery,
+		"function-name" : "jQuery",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/keydown/,
-		"language" : js,
+		"link" : "http://api.jquery.com/keydown/",
+		"language" : "js",
 
-		"function-name" : keydown,
+		"function-name" : "keydown",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/keypress/,
-		"language" : js,
+		"link" : "http://api.jquery.com/keypress/",
+		"language" : "js",
 
-		"function-name" : keypress,
+		"function-name" : "keypress",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/keyup/,
-		"language" : js,
+		"link" : "http://api.jquery.com/keyup/",
+		"language" : "js",
 
-		"function-name" : keyup,
+		"function-name" : "keyup",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/lang-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/lang-selector/",
+		"language" : "js",
 
-		"function-name" : lang-selector,
+		"function-name" : "lang-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/last-child-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/last-child-selector/",
+		"language" : "js",
 
-		"function-name" : last-child-selector,
+		"function-name" : "last-child-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/last-of-type-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/last-of-type-selector/",
+		"language" : "js",
 
-		"function-name" : last-of-type-selector,
+		"function-name" : "last-of-type-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/last-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/last-selector/",
+		"language" : "js",
 
-		"function-name" : last-selector,
+		"function-name" : "last-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/last/,
-		"language" : js,
+		"link" : "http://api.jquery.com/last/",
+		"language" : "js",
 
-		"function-name" : last,
+		"function-name" : "last",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/length/,
-		"language" : js,
+		"link" : "http://api.jquery.com/length/",
+		"language" : "js",
 
-		"function-name" : length,
+		"function-name" : "length",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/live/,
-		"language" : js,
+		"link" : "http://api.jquery.com/live/",
+		"language" : "js",
 
-		"function-name" : live,
+		"function-name" : "live",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/load-event/,
-		"language" : js,
+		"link" : "http://api.jquery.com/load-event/",
+		"language" : "js",
 
-		"function-name" : load-event,
+		"function-name" : "load-event",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/load/,
-		"language" : js,
+		"link" : "http://api.jquery.com/load/",
+		"language" : "js",
 
-		"function-name" : load,
+		"function-name" : "load",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/lt-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/lt-selector/",
+		"language" : "js",
 
-		"function-name" : lt-selector,
+		"function-name" : "lt-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/map/,
-		"language" : js,
+		"link" : "http://api.jquery.com/map/",
+		"language" : "js",
 
-		"function-name" : map,
+		"function-name" : "map",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/mousedown/,
-		"language" : js,
+		"link" : "http://api.jquery.com/mousedown/",
+		"language" : "js",
 
-		"function-name" : mousedown,
+		"function-name" : "mousedown",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/mouseenter/,
-		"language" : js,
+		"link" : "http://api.jquery.com/mouseenter/",
+		"language" : "js",
 
-		"function-name" : mouseenter,
+		"function-name" : "mouseenter",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/mouseleave/,
-		"language" : js,
+		"link" : "http://api.jquery.com/mouseleave/",
+		"language" : "js",
 
-		"function-name" : mouseleave,
+		"function-name" : "mouseleave",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/mousemove/,
-		"language" : js,
+		"link" : "http://api.jquery.com/mousemove/",
+		"language" : "js",
 
-		"function-name" : mousemove,
+		"function-name" : "mousemove",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/mouseout/,
-		"language" : js,
+		"link" : "http://api.jquery.com/mouseout/",
+		"language" : "js",
 
-		"function-name" : mouseout,
+		"function-name" : "mouseout",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/mouseover/,
-		"language" : js,
+		"link" : "http://api.jquery.com/mouseover/",
+		"language" : "js",
 
-		"function-name" : mouseover,
+		"function-name" : "mouseover",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/mouseup/,
-		"language" : js,
+		"link" : "http://api.jquery.com/mouseup/",
+		"language" : "js",
 
-		"function-name" : mouseup,
+		"function-name" : "mouseup",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/multiple-attribute-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/multiple-attribute-selector/",
+		"language" : "js",
 
-		"function-name" : multiple-attribute-selector,
+		"function-name" : "multiple-attribute-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/multiple-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/multiple-selector/",
+		"language" : "js",
 
-		"function-name" : multiple-selector,
+		"function-name" : "multiple-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/next-adjacent-Selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/next-adjacent-Selector/",
+		"language" : "js",
 
-		"function-name" : next-adjacent-Selector,
+		"function-name" : "next-adjacent-Selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/next-siblings-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/next-siblings-selector/",
+		"language" : "js",
 
-		"function-name" : next-siblings-selector,
+		"function-name" : "next-siblings-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/next/,
-		"language" : js,
+		"link" : "http://api.jquery.com/next/",
+		"language" : "js",
 
-		"function-name" : next,
+		"function-name" : "next",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/nextAll/,
-		"language" : js,
+		"link" : "http://api.jquery.com/nextAll/",
+		"language" : "js",
 
-		"function-name" : nextAll,
+		"function-name" : "nextAll",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/nextUntil/,
-		"language" : js,
+		"link" : "http://api.jquery.com/nextUntil/",
+		"language" : "js",
 
-		"function-name" : nextUntil,
+		"function-name" : "nextUntil",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/not-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/not-selector/",
+		"language" : "js",
 
-		"function-name" : not-selector,
+		"function-name" : "not-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/not/,
-		"language" : js,
+		"link" : "http://api.jquery.com/not/",
+		"language" : "js",
 
-		"function-name" : not,
+		"function-name" : "not",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/nth-child-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/nth-child-selector/",
+		"language" : "js",
 
-		"function-name" : nth-child-selector,
+		"function-name" : "nth-child-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/nth-last-child-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/nth-last-child-selector/",
+		"language" : "js",
 
-		"function-name" : nth-last-child-selector,
+		"function-name" : "nth-last-child-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/nth-last-of-type-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/nth-last-of-type-selector/",
+		"language" : "js",
 
-		"function-name" : nth-last-of-type-selector,
+		"function-name" : "nth-last-of-type-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/nth-of-type-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/nth-of-type-selector/",
+		"language" : "js",
 
-		"function-name" : nth-of-type-selector,
+		"function-name" : "nth-of-type-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/odd-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/odd-selector/",
+		"language" : "js",
 
-		"function-name" : odd-selector,
+		"function-name" : "odd-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/off/,
-		"language" : js,
+		"link" : "http://api.jquery.com/off/",
+		"language" : "js",
 
-		"function-name" : off,
+		"function-name" : "off",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/offset/,
-		"language" : js,
+		"link" : "http://api.jquery.com/offset/",
+		"language" : "js",
 
-		"function-name" : offset,
+		"function-name" : "offset",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/offsetParent/,
-		"language" : js,
+		"link" : "http://api.jquery.com/offsetParent/",
+		"language" : "js",
 
-		"function-name" : offsetParent,
+		"function-name" : "offsetParent",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/on/,
-		"language" : js,
+		"link" : "http://api.jquery.com/on/",
+		"language" : "js",
 
-		"function-name" : on,
+		"function-name" : "on",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/one/,
-		"language" : js,
+		"link" : "http://api.jquery.com/one/",
+		"language" : "js",
 
-		"function-name" : one,
+		"function-name" : "one",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/only-child-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/only-child-selector/",
+		"language" : "js",
 
-		"function-name" : only-child-selector,
+		"function-name" : "only-child-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/only-of-type-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/only-of-type-selector/",
+		"language" : "js",
 
-		"function-name" : only-of-type-selector,
+		"function-name" : "only-of-type-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/outerHeight/,
-		"language" : js,
+		"link" : "http://api.jquery.com/outerHeight/",
+		"language" : "js",
 
-		"function-name" : outerHeight,
+		"function-name" : "outerHeight",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/outerWidth/,
-		"language" : js,
+		"link" : "http://api.jquery.com/outerWidth/",
+		"language" : "js",
 
-		"function-name" : outerWidth,
+		"function-name" : "outerWidth",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/parent-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/parent-selector/",
+		"language" : "js",
 
-		"function-name" : parent-selector,
+		"function-name" : "parent-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/parent/,
-		"language" : js,
+		"link" : "http://api.jquery.com/parent/",
+		"language" : "js",
 
-		"function-name" : parent,
+		"function-name" : "parent",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/parents/,
-		"language" : js,
+		"link" : "http://api.jquery.com/parents/",
+		"language" : "js",
 
-		"function-name" : parents,
+		"function-name" : "parents",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/parentsUntil/,
-		"language" : js,
+		"link" : "http://api.jquery.com/parentsUntil/",
+		"language" : "js",
 
-		"function-name" : parentsUntil,
+		"function-name" : "parentsUntil",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/password-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/password-selector/",
+		"language" : "js",
 
-		"function-name" : password-selector,
+		"function-name" : "password-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/position/,
-		"language" : js,
+		"link" : "http://api.jquery.com/position/",
+		"language" : "js",
 
-		"function-name" : position,
+		"function-name" : "position",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/prepend/,
-		"language" : js,
+		"link" : "http://api.jquery.com/prepend/",
+		"language" : "js",
 
-		"function-name" : prepend,
+		"function-name" : "prepend",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/prependTo/,
-		"language" : js,
+		"link" : "http://api.jquery.com/prependTo/",
+		"language" : "js",
 
-		"function-name" : prependTo,
+		"function-name" : "prependTo",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/prev/,
-		"language" : js,
+		"link" : "http://api.jquery.com/prev/",
+		"language" : "js",
 
-		"function-name" : prev,
+		"function-name" : "prev",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/prevAll/,
-		"language" : js,
+		"link" : "http://api.jquery.com/prevAll/",
+		"language" : "js",
 
-		"function-name" : prevAll,
+		"function-name" : "prevAll",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/prevUntil/,
-		"language" : js,
+		"link" : "http://api.jquery.com/prevUntil/",
+		"language" : "js",
 
-		"function-name" : prevUntil,
+		"function-name" : "prevUntil",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/promise/,
-		"language" : js,
+		"link" : "http://api.jquery.com/promise/",
+		"language" : "js",
 
-		"function-name" : promise,
+		"function-name" : "promise",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/prop/,
-		"language" : js,
+		"link" : "http://api.jquery.com/prop/",
+		"language" : "js",
 
-		"function-name" : prop,
+		"function-name" : "prop",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/pushStack/,
-		"language" : js,
+		"link" : "http://api.jquery.com/pushStack/",
+		"language" : "js",
 
-		"function-name" : pushStack,
+		"function-name" : "pushStack",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/queue/,
-		"language" : js,
+		"link" : "http://api.jquery.com/queue/",
+		"language" : "js",
 
-		"function-name" : queue,
+		"function-name" : "queue",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/radio-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/radio-selector/",
+		"language" : "js",
 
-		"function-name" : radio-selector,
+		"function-name" : "radio-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/ready/,
-		"language" : js,
+		"link" : "http://api.jquery.com/ready/",
+		"language" : "js",
 
-		"function-name" : ready,
+		"function-name" : "ready",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/remove/,
-		"language" : js,
+		"link" : "http://api.jquery.com/remove/",
+		"language" : "js",
 
-		"function-name" : remove,
+		"function-name" : "remove",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/removeAttr/,
-		"language" : js,
+		"link" : "http://api.jquery.com/removeAttr/",
+		"language" : "js",
 
-		"function-name" : removeAttr,
+		"function-name" : "removeAttr",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/removeClass/,
-		"language" : js,
+		"link" : "http://api.jquery.com/removeClass/",
+		"language" : "js",
 
-		"function-name" : removeClass,
+		"function-name" : "removeClass",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/removeData/,
-		"language" : js,
+		"link" : "http://api.jquery.com/removeData/",
+		"language" : "js",
 
-		"function-name" : removeData,
+		"function-name" : "removeData",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/removeProp/,
-		"language" : js,
+		"link" : "http://api.jquery.com/removeProp/",
+		"language" : "js",
 
-		"function-name" : removeProp,
+		"function-name" : "removeProp",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/replaceAll/,
-		"language" : js,
+		"link" : "http://api.jquery.com/replaceAll/",
+		"language" : "js",
 
-		"function-name" : replaceAll,
+		"function-name" : "replaceAll",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/replaceWith/,
-		"language" : js,
+		"link" : "http://api.jquery.com/replaceWith/",
+		"language" : "js",
 
-		"function-name" : replaceWith,
+		"function-name" : "replaceWith",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/reset-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/reset-selector/",
+		"language" : "js",
 
-		"function-name" : reset-selector,
+		"function-name" : "reset-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/resize/,
-		"language" : js,
+		"link" : "http://api.jquery.com/resize/",
+		"language" : "js",
 
-		"function-name" : resize,
+		"function-name" : "resize",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/root-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/root-selector/",
+		"language" : "js",
 
-		"function-name" : root-selector,
+		"function-name" : "root-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/scroll/,
-		"language" : js,
+		"link" : "http://api.jquery.com/scroll/",
+		"language" : "js",
 
-		"function-name" : scroll,
+		"function-name" : "scroll",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/scrollLeft/,
-		"language" : js,
+		"link" : "http://api.jquery.com/scrollLeft/",
+		"language" : "js",
 
-		"function-name" : scrollLeft,
+		"function-name" : "scrollLeft",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/scrollTop/,
-		"language" : js,
+		"link" : "http://api.jquery.com/scrollTop/",
+		"language" : "js",
 
-		"function-name" : scrollTop,
+		"function-name" : "scrollTop",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/select/,
-		"language" : js,
+		"link" : "http://api.jquery.com/select/",
+		"language" : "js",
 
-		"function-name" : select,
+		"function-name" : "select",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/selected-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/selected-selector/",
+		"language" : "js",
 
-		"function-name" : selected-selector,
+		"function-name" : "selected-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/selector/",
+		"language" : "js",
 
-		"function-name" : selector,
+		"function-name" : "selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/serialize/,
-		"language" : js,
+		"link" : "http://api.jquery.com/serialize/",
+		"language" : "js",
 
-		"function-name" : serialize,
+		"function-name" : "serialize",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/serializeArray/,
-		"language" : js,
+		"link" : "http://api.jquery.com/serializeArray/",
+		"language" : "js",
 
-		"function-name" : serializeArray,
+		"function-name" : "serializeArray",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/show/,
-		"language" : js,
+		"link" : "http://api.jquery.com/show/",
+		"language" : "js",
 
-		"function-name" : show,
+		"function-name" : "show",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/siblings/,
-		"language" : js,
+		"link" : "http://api.jquery.com/siblings/",
+		"language" : "js",
 
-		"function-name" : siblings,
+		"function-name" : "siblings",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/size/,
-		"language" : js,
+		"link" : "http://api.jquery.com/size/",
+		"language" : "js",
 
-		"function-name" : size,
+		"function-name" : "size",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/slice/,
-		"language" : js,
+		"link" : "http://api.jquery.com/slice/",
+		"language" : "js",
 
-		"function-name" : slice,
+		"function-name" : "slice",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/slideDown/,
-		"language" : js,
+		"link" : "http://api.jquery.com/slideDown/",
+		"language" : "js",
 
-		"function-name" : slideDown,
+		"function-name" : "slideDown",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/slideToggle/,
-		"language" : js,
+		"link" : "http://api.jquery.com/slideToggle/",
+		"language" : "js",
 
-		"function-name" : slideToggle,
+		"function-name" : "slideToggle",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/slideUp/,
-		"language" : js,
+		"link" : "http://api.jquery.com/slideUp/",
+		"language" : "js",
 
-		"function-name" : slideUp,
+		"function-name" : "slideUp",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/stop/,
-		"language" : js,
+		"link" : "http://api.jquery.com/stop/",
+		"language" : "js",
 
-		"function-name" : stop,
+		"function-name" : "stop",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/submit-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/submit-selector/",
+		"language" : "js",
 
-		"function-name" : submit-selector,
+		"function-name" : "submit-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/submit/,
-		"language" : js,
+		"link" : "http://api.jquery.com/submit/",
+		"language" : "js",
 
-		"function-name" : submit,
+		"function-name" : "submit",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/target-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/target-selector/",
+		"language" : "js",
 
-		"function-name" : target-selector,
+		"function-name" : "target-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/text-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/text-selector/",
+		"language" : "js",
 
-		"function-name" : text-selector,
+		"function-name" : "text-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/text/,
-		"language" : js,
+		"link" : "http://api.jquery.com/text/",
+		"language" : "js",
 
-		"function-name" : text,
+		"function-name" : "text",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/toArray/,
-		"language" : js,
+		"link" : "http://api.jquery.com/toArray/",
+		"language" : "js",
 
-		"function-name" : toArray,
+		"function-name" : "toArray",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/toggle-event/,
-		"language" : js,
+		"link" : "http://api.jquery.com/toggle-event/",
+		"language" : "js",
 
-		"function-name" : toggle-event,
+		"function-name" : "toggle-event",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/toggle/,
-		"language" : js,
+		"link" : "http://api.jquery.com/toggle/",
+		"language" : "js",
 
-		"function-name" : toggle,
+		"function-name" : "toggle",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/toggleClass/,
-		"language" : js,
+		"link" : "http://api.jquery.com/toggleClass/",
+		"language" : "js",
 
-		"function-name" : toggleClass,
+		"function-name" : "toggleClass",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/trigger/,
-		"language" : js,
+		"link" : "http://api.jquery.com/trigger/",
+		"language" : "js",
 
-		"function-name" : trigger,
+		"function-name" : "trigger",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/triggerHandler/,
-		"language" : js,
+		"link" : "http://api.jquery.com/triggerHandler/",
+		"language" : "js",
 
-		"function-name" : triggerHandler,
+		"function-name" : "triggerHandler",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/unbind/,
-		"language" : js,
+		"link" : "http://api.jquery.com/unbind/",
+		"language" : "js",
 
-		"function-name" : unbind,
+		"function-name" : "unbind",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/undelegate/,
-		"language" : js,
+		"link" : "http://api.jquery.com/undelegate/",
+		"language" : "js",
 
-		"function-name" : undelegate,
+		"function-name" : "undelegate",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/unload/,
-		"language" : js,
+		"link" : "http://api.jquery.com/unload/",
+		"language" : "js",
 
-		"function-name" : unload,
+		"function-name" : "unload",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/unwrap/,
-		"language" : js,
+		"link" : "http://api.jquery.com/unwrap/",
+		"language" : "js",
 
-		"function-name" : unwrap,
+		"function-name" : "unwrap",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/val/,
-		"language" : js,
+		"link" : "http://api.jquery.com/val/",
+		"language" : "js",
 
-		"function-name" : val,
+		"function-name" : "val",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/visible-selector/,
-		"language" : js,
+		"link" : "http://api.jquery.com/visible-selector/",
+		"language" : "js",
 
-		"function-name" : visible-selector,
+		"function-name" : "visible-selector",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/width/,
-		"language" : js,
+		"link" : "http://api.jquery.com/width/",
+		"language" : "js",
 
-		"function-name" : width,
+		"function-name" : "width",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/wrap/,
-		"language" : js,
+		"link" : "http://api.jquery.com/wrap/",
+		"language" : "js",
 
-		"function-name" : wrap,
+		"function-name" : "wrap",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
+		"lib" : "api.jquery.com"
 	},
 	{
-		"link" : http://api.jquery.com/wrapAll/,
-		"language" : js,
+		"link" : "http://api.jquery.com/wrapAll/",
+		"language" : "js",
 
-		"function-name" : wrapAll,
+		"function-name" : "wrapAll",
 		"param" : "",
 		"method-root" : "",
 
-		"lib" : api.jquery.com
-	}
-]
+		"lib" : "api.jquery.com"
+	},
