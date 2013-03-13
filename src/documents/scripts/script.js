@@ -153,9 +153,6 @@ var outside;
 var colorize = function( string, env ) {
 
 	//Test the damn thing
-	console.log("---");
-	console.log(string);
-	console.log("starting env:" + env);
 
 	//Get current env into it's own var.
 	var env_data = environments[env],
@@ -174,12 +171,8 @@ var colorize = function( string, env ) {
 			//Get the result
 			var result = test_obj.regex.exec(string);
 
-			console.log(result);
-
 			//Get the next env
 			var next_env = test_obj.next_env;
-
-			console.log( "next env:" + next_env );
 
 			//Package the result
 			results_arr.push({"text": result[1], "type": test_obj.type, "env": test_obj.env });
@@ -190,19 +183,13 @@ var colorize = function( string, env ) {
 			//Make outside falsy
 			if ( env !== next_env ) {
 				if ( next_env !== "out" ) {
-					console.log("normal change")
 					outside = next_env;
-					console.log("ouside: " + outside);
 				}
 
 				if ( next_env === "out" )	{
-					console.log("going out");
 					next_env = outside;
 				}
-			} else {
-				console.log("no change")
 			}
-
 
 			//Inception!
 			colorize( result[2], next_env );
