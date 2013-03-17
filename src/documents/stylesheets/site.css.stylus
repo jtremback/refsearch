@@ -15,3 +15,15 @@ html {
 		padding: 0;
 	}
 }
+
+.property {
+	color: red;
+}
+
+.object_base {
+	color: green;
+}
+
+.method {
+	color: orange;
+}

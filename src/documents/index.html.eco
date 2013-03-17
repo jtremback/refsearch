@@ -4,17 +4,21 @@ layout: "default"
 isPage: true
 ---
 
+<input class="search" id="box"></input>
 
-<div id="func-list">
+<!-- <div id="func-list">
   <input class="search"></input>
   <ul class="list">
-    <% for item in @db: %>
+    <% for item in @runner(@db): %>
       <li>
-        <a href="<%- item.link %>">
-          <p class="func"><%- item.func %></p>
-        </a>
+        <p class="func">
+          <%- item.func %><br/>
+          <% for grain in item.split_func: %>
+            <span class="<%- grain.type %>"><%- grain.text %></span>
+          <% end %>
+        </p>
       </li>
     <% end %>
   </ul>
-</div>
+</div> -->
 

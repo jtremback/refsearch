@@ -1,9 +1,3 @@
-// var options = {
-// 		valueNames: [ 'func' ]
-// };
-
-// var hackerList = new List('func-list', options);
-
 var db = [
   {
     "link": "http://backbonejs.org/#Events-on",
@@ -1106,64 +1100,122 @@ var db = [
 ];
 
 
-var idx = lunr(function () {
-	this.field('func', { boost: 10 })
-})
+var options = {
+		valueNames: [ 'func' ]
+};
 
+var hackerList = new List('func-list', options);
+
+//A word that starts a string and is followed by a dot is an object base.
+//A word that follows and is followed by a dot is a property.
+//A word that follows a dot and is followed by an open paren is a method
+//A word that is followed by an open paren is a func call.
+
+
+var environments = {
+	root: [
+		{ regex: /^\s*(.+)(\..*)$/, type: "object_base", next_env: "root" }, //Object Base
+		{ regex: /^\s*(\..+)(\..*)$/, type: "property", next_env: "root"}, //Property
+		{ regex: /^\s*([^\.]+\()(.*)$/, type: "func_call", next_env: "args" }, //Function Call
+		{ regex: /^\s*(\..+\()(.*)$/, type: "method", next_env: "args"} //Method
+	],
+	args: [
+		{ regex: /^\s*(\[[^,\)]+\],?)(.*)$/, type: "opt_arg", next_env: "args" }, //Optional Argument
+		{ regex: /^(\s*[^\[,\)]+,?)(.*)$/, type: "req_arg", next_env: "args" }, //Required Argument
+		{ regex: /^\s*(\))(.*)$/, type: "close_paren", next_env: "out" } //Exit args
+	]
+};
+
+//Try first regex in env on string, if it fails, move to the next.
+//If it succeeds, and is a token, extract the result into an object alongside its type.
+//Add object to results array.
+//Run func on remainder, using env var from matching regex.
+//If it succeeds, and is a scope, run func on result, using env var.
+
+var colorize = function (init_string, init_env) {
+
+	console.log(init_string);
+	var results_arr = [],
+			outside;
+
+	var inner = function (string, env) {
+
+		//Test the damn thing
+		console.log(string);
+		console.log(env)
+
+		//Get current env into it's own var.
+		var env_data = environments[env],
+
+		//Info for the loop
+		env_length = env_data.length,
+		i = 0;
+
+		while (i < env_length) {
+
+			var test_obj = env_data[i];
+
+			//If the regex even works
+			//Get the result
+			//Get the next env
+			//Package the result
+			if (test_obj.regex.test(string)) {
+				var result = test_obj.regex.exec(string);
+				var next_env = test_obj.next_env;
+				results_arr.push({"text": result[1], "type": test_obj.type, "env": test_obj.env });
+
+				//Notice if the env changes
+				//If so, save the previous env in var outside
+				//If environment changes to out, load the saved env
+				//Make outside falsy
+				if ( env !== next_env ) {
+					if ( next_env !== "out" ) {
+						outside = next_env;
+					}
+
+					if ( next_env === "out" )	{
+						next_env = outside;
+					}
+				}
+
+				//Recurse
+				inner( result[2], next_env );
+
+				//Job is done.
+				break;
+			}
+
+			//If not, try the next
+			i++
+		}
+	};
+	inner(init_string, init_env);
+	return results_arr;
+}
+
+
+// //JSON RUNNER
+// //Iterate through db.json, read func property.
+// //Run string in func property through colorizer.
+// //Save array in split_func property
 var db_length = db.length;
 i = 0;
 
 while (i < db_length) {
-	console.log("worked");
-	idx.add(db[i])
+	var ref_unit = db[i];
+
+	var func_string = ref_unit.func;
+
+	console.log(colorize(func_string, "root"));
+
 	i++
 }
 
 
-var doc = {
-	"title": "Twelfth-Night",
-	"body": "If music be the food of love, play on: Give me excess of it…",
-	"author": "William Shakespeare",
-	"id": 1
-}
-idx.add(doc)
 
-var spoc = {
-	"title": "Twelfth-Night",
-	"body": "Love all, trust a few, do wrong to none.",
-	"author": "William Shakespeare",
-	"id": 2
-}
-idx.add(spoc)
+console.log(colorize("router.route(route, name, [callback])", "root"));
 
-var froc = {
-	"title": "elf-Night",
-	"body": "As soon go kindle fire with snow, as seek to quench the fire of love with words.",
-	"author": "William Shakespeare",
-	"id": 3
-}
-idx.add(froc)
-
-//Live Search
-//Reacts to keyup in the input and waits for a certain amount of time before
-//calling searc func
-
-var typewatch = function(){
-		var timer = 0;
-		return function(callback, ms){
-				clearTimeout (timer);
-				timer = setTimeout(callback, ms);
-		}
-}();
-
-window.onload = function () {
-	document.getElementById('box').onkeyup = function () {
-		typewatch(function(){
-			console.log(idx.search(document.getElementById('box').value))},
-			200)
-		}
-};
-
+// console.log(results_arr)
 
 
 //BACKBONE DOC SCRAPER
