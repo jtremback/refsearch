@@ -4,9 +4,15 @@ layout: "default"
 isPage: true
 ---
 
-<input class="search" id="box"></input>
+<div class="searchtainer">
+  <label for="search">refsearch.net</label>
+  <input autocomplete="off" name="search" id="search" type="text"></input>
 
-<ul id="results-list"></ul>
+  <!-- <label for="using">i'm using:</label>
+  <input name="using" id="using" type="text"></input>
+   -->
+  <ul id="results-list"></ul>
+</div>
 
 <script id="result_tmpl" type="text/x-dot-template">
   {{~it :value:index}}

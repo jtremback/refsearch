@@ -1192,17 +1192,39 @@ var searchRender = function(results) {
   }
 
   var result_fn = doT.template(document.getElementById('result_tmpl').text)
-  document.getElementById('list').innerHTML = result_fn(results_arr);
+  document.getElementById('results-list').innerHTML = result_fn(results_arr);
 }
 
-window.onload = function () {
-  document.getElementById('box').onkeyup = function () {
+$(document).ready(function () {
+  document.getElementById('search').onkeyup = function () {
     typewatch(function(){
-      searchRender(idx.search(document.getElementById('box').value))},
-      200)
+      var value = document.getElementById('search').value;
+      console.log(value);
+      if (value.length > 1) {
+        searchRender(idx.search(document.getElementById('search').value))
+      } else {
+        document.getElementById('results-list').innerHTML = '';
+      }
+    }, 200)
     }
-};
+});
 
+// $(document).ready(function () {
+//   document.getElementById('search').onkeyup = function () {
+//     typewatch(function(){
+//       var value = document.getElementById('search').value;
+//       console.log(value);
+//       if (value.length > 2) {
+//         searchRender(idx.search(document.getElementById('search').value));
+//       },
+//     }, 200)
+//   }
+// });
+
+
+// $("#search").select2({
+//     data:[{id:0,text:'enhancement'},{id:1,text:'bug'},{id:2,text:'duplicate'},{id:3,text:'invalid'},{id:4,text:'wontfix'}]
+// });
 
 //BACKBONE DOC SCRAPER
 // var url = "http://backbonejs.org/";
