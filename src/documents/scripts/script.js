@@ -1110,6 +1110,25 @@ var idx = lunr(function () {
 	this.field('func', { boost: 10 })
 })
 
+
+var hasher = function (ref_unit) {
+   return md5(ref_unit.lib + ref_unit.func);
+};
+
+var db_length = db.length;
+i = 0;
+
+
+while (i < db_length) {
+  var ref_unit = db[i];
+
+  // ref_unit.id = hasher(ref_unit);
+
+  ref_unit.id = i;
+
+  i++
+}
+
 var db_length = db.length;
 i = 0;
 
@@ -1119,30 +1138,29 @@ while (i < db_length) {
 	i++
 }
 
+// var doc = {
+// 	"title": "Twelfth-Night",
+// 	"body": "If music be the food of love, play on: Give me excess of it…",
+// 	"author": "William Shakespeare",
+// 	"id": 1
+// }
+// idx.add(doc)
 
-var doc = {
-	"title": "Twelfth-Night",
-	"body": "If music be the food of love, play on: Give me excess of it…",
-	"author": "William Shakespeare",
-	"id": 1
-}
-idx.add(doc)
+// var spoc = {
+// 	"title": "Twelfth-Night",
+// 	"body": "Love all, trust a few, do wrong to none.",lunr
+// 	"author": "William Shakespeare",
+// 	"id": 2
+// }
+// idx.add(spoc)
 
-var spoc = {
-	"title": "Twelfth-Night",
-	"body": "Love all, trust a few, do wrong to none.",
-	"author": "William Shakespeare",
-	"id": 2
-}
-idx.add(spoc)
-
-var froc = {
-	"title": "elf-Night",
-	"body": "As soon go kindle fire with snow, as seek to quench the fire of love with words.",
-	"author": "William Shakespeare",
-	"id": 3
-}
-idx.add(froc)
+// var froc = {
+// 	"title": "elf-Night",
+// 	"body": "As soon go kindle fire with snow, as seek to quench the fire of love with words.",
+// 	"author": "William Shakespeare",
+// 	"id": 3
+// }
+// idx.add(froc)
 
 //Live Search
 //Reacts to keyup in the input and waits for a certain amount of time before
@@ -1156,14 +1174,34 @@ var typewatch = function(){
 		}
 }();
 
-window.onload = function () {
-	document.getElementById('box').onkeyup = function () {
-		typewatch(function(){
-			console.log(idx.search(document.getElementById('box').value))},
-			200)
-		}
-};
+//Get results for query
+//Get array of corresponding documents
+//Render template with document array
 
+var searchRender = function(results) {
+  var results_length = results.length;
+  var results_arr = [];
+  i = 0;
+
+
+  while (i < results_length) {
+    var rel = results[i].score
+    var ref = results[i].ref;
+    results_arr.push(db[ref])
+    i++
+  }
+
+  var result_fn = doT.template(document.getElementById('result_tmpl').text)
+  document.getElementById('list').innerHTML = result_fn(results_arr);
+}
+
+window.onload = function () {
+  document.getElementById('box').onkeyup = function () {
+    typewatch(function(){
+      searchRender(idx.search(document.getElementById('box').value))},
+      200)
+    }
+};
 
 
 //BACKBONE DOC SCRAPER

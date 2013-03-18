@@ -6,19 +6,13 @@ isPage: true
 
 <input class="search" id="box"></input>
 
-<!-- <div id="func-list">
-  <input class="search"></input>
-  <ul class="list">
-    <% for item in @runner(@db): %>
-      <li>
-        <p class="func">
-          <%- item.func %><br/>
-          <% for grain in item.split_func: %>
-            <span class="<%- grain.type %>"><%- grain.text %></span>
-          <% end %>
-        </p>
-      </li>
-    <% end %>
-  </ul>
-</div> -->
+<ul id="results-list"></ul>
 
+<script id="result_tmpl" type="text/x-dot-template">
+  {{~it :value:index}}
+    <li class="result">
+      <div class="fingerprint">{{=value.func}}</div>
+      <div class="library">{{=value.lib}}</div>
+    </li>
+  {{~}}
+</script>

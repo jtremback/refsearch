@@ -43,7 +43,7 @@
 var lunr = function (config) {
   var idx = new lunr.Index
 
-  idx.pipeline.add(lunr.stopWordFilter, lunr.stemmer)
+  // idx.pipeline.add(lunr.stopWordFilter, lunr.stemmer)
 
   if (config) config.call(idx, idx)
 
@@ -71,7 +71,8 @@ if (typeof module !== 'undefined') {
 lunr.tokenizer = function (str) {
   if (Array.isArray(str)) return str
 
-  var whiteSpaceSplitRegex = /\s+/
+  //Change regex to split on not just spaces- JNT
+  var whiteSpaceSplitRegex = /[, \.\(\)\[\]]/
 
   return str.split(whiteSpaceSplitRegex).map(function (token) {
     return token.replace(/^\W+/, '').replace(/\W+$/, '').toLowerCase()

@@ -27,3 +27,13 @@ html {
 .method {
 	color: orange;
 }
+
+.result {
+	.fingerprint {
+		font-family: monospace;
+		font-size: 1.2em;
+	}
+	.library {
+		font-family: sans-serif;
+	}
+}
