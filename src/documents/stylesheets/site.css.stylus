@@ -52,6 +52,13 @@ input {
 	font-size: 2em;
 	border: 1px solid #aaa;
 	outline: none;
+	width: 100%;
+}
+
+.content {
+	max-width: 666px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 #func-list {
@@ -87,4 +94,8 @@ input {
 label {
 	display: block;
 	font-family: sans-serif;
+}
+
+#searchtainer {
+
 }
