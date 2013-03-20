@@ -1,0 +1,578 @@
+[
+  {
+    "link": "http://underscorejs.org/#each",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.each(list, iterator, [context])"
+  },
+  {
+    "link": "http://underscorejs.org/#map",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.map(list, iterator, [context])"
+  },
+  {
+    "link": "http://underscorejs.org/#reduce",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.reduce(list, iterator, memo, [context])"
+  },
+  {
+    "link": "http://underscorejs.org/#reduceRight",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.reduceRight(list, iterator, memo, [context])"
+  },
+  {
+    "link": "http://underscorejs.org/#find",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.find(list, iterator, [context])"
+  },
+  {
+    "link": "http://underscorejs.org/#filter",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.filter(list, iterator, [context])"
+  },
+  {
+    "link": "http://underscorejs.org/#where",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.where(list, properties)"
+  },
+  {
+    "link": "http://underscorejs.org/#findWhere",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.findWhere(list, properties)"
+  },
+  {
+    "link": "http://underscorejs.org/#reject",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.reject(list, iterator, [context])"
+  },
+  {
+    "link": "http://underscorejs.org/#every",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.every(list, iterator, [context])"
+  },
+  {
+    "link": "http://underscorejs.org/#some",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.some(list, [iterator], [context])"
+  },
+  {
+    "link": "http://underscorejs.org/#contains",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.contains(list, value)"
+  },
+  {
+    "link": "http://underscorejs.org/#invoke",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.invoke(list, methodName, [*arguments])"
+  },
+  {
+    "link": "http://underscorejs.org/#pluck",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.pluck(list, propertyName)"
+  },
+  {
+    "link": "http://underscorejs.org/#max",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.max(list, [iterator], [context])"
+  },
+  {
+    "link": "http://underscorejs.org/#min",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.min(list, [iterator], [context])"
+  },
+  {
+    "link": "http://underscorejs.org/#sortBy",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.sortBy(list, iterator, [context])"
+  },
+  {
+    "link": "http://underscorejs.org/#groupBy",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.groupBy(list, iterator, [context])"
+  },
+  {
+    "link": "http://underscorejs.org/#countBy",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.countBy(list, iterator, [context])"
+  },
+  {
+    "link": "http://underscorejs.org/#shuffle",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.shuffle(list)"
+  },
+  {
+    "link": "http://underscorejs.org/#toArray",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.toArray(list)"
+  },
+  {
+    "link": "http://underscorejs.org/#size",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.size(list)"
+  },
+  {
+    "link": "http://underscorejs.org/#arrays",
+    "language": "js",
+    "lib": "underscore",
+    "func": ""
+  },
+  {
+    "link": "http://underscorejs.org/#first",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.first(array, [n])"
+  },
+  {
+    "link": "http://underscorejs.org/#initial",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.initial(array, [n])"
+  },
+  {
+    "link": "http://underscorejs.org/#last",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.last(array, [n])"
+  },
+  {
+    "link": "http://underscorejs.org/#rest",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.rest(array, [index])"
+  },
+  {
+    "link": "http://underscorejs.org/#compact",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.compact(array)"
+  },
+  {
+    "link": "http://underscorejs.org/#flatten",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.flatten(array, [shallow])"
+  },
+  {
+    "link": "http://underscorejs.org/#without",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.without(array, [*values])"
+  },
+  {
+    "link": "http://underscorejs.org/#union",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.union(*arrays)"
+  },
+  {
+    "link": "http://underscorejs.org/#intersection",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.intersection(*arrays)"
+  },
+  {
+    "link": "http://underscorejs.org/#difference",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.difference(array, *others)"
+  },
+  {
+    "link": "http://underscorejs.org/#uniq",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.uniq(array, [isSorted], [iterator])"
+  },
+  {
+    "link": "http://underscorejs.org/#zip",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.zip(*arrays)"
+  },
+  {
+    "link": "http://underscorejs.org/#object",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.object(list, [values])"
+  },
+  {
+    "link": "http://underscorejs.org/#indexOf",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.indexOf(array, value, [isSorted])"
+  },
+  {
+    "link": "http://underscorejs.org/#lastIndexOf",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.lastIndexOf(array, value, [fromIndex])"
+  },
+  {
+    "link": "http://underscorejs.org/#sortedIndex",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.sortedIndex(list, value, [iterator], [context])"
+  },
+  {
+    "link": "http://underscorejs.org/#range",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.range([start], stop, [step])"
+  },
+  {
+    "link": "http://underscorejs.org/#functions",
+    "language": "js",
+    "lib": "underscore",
+    "func": ""
+  },
+  {
+    "link": "http://underscorejs.org/#bind",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.bind(function, object, [*arguments])"
+  },
+  {
+    "link": "http://underscorejs.org/#bindAll",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.bindAll(object, [*methodNames])"
+  },
+  {
+    "link": "http://underscorejs.org/#partial",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.partial(function, [*arguments])"
+  },
+  {
+    "link": "http://underscorejs.org/#memoize",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.memoize(function, [hashFunction])"
+  },
+  {
+    "link": "http://underscorejs.org/#delay",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.delay(function, wait, [*arguments])"
+  },
+  {
+    "link": "http://underscorejs.org/#defer",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.defer(function, [*arguments])"
+  },
+  {
+    "link": "http://underscorejs.org/#throttle",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.throttle(function, wait)"
+  },
+  {
+    "link": "http://underscorejs.org/#debounce",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.debounce(function, wait, [immediate])"
+  },
+  {
+    "link": "http://underscorejs.org/#once",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.once(function)"
+  },
+  {
+    "link": "http://underscorejs.org/#after",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.after(count, function)"
+  },
+  {
+    "link": "http://underscorejs.org/#wrap",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.wrap(function, wrapper)"
+  },
+  {
+    "link": "http://underscorejs.org/#compose",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.compose(*functions)"
+  },
+  {
+    "link": "http://underscorejs.org/#objects",
+    "language": "js",
+    "lib": "underscore",
+    "func": ""
+  },
+  {
+    "link": "http://underscorejs.org/#keys",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.keys(object)"
+  },
+  {
+    "link": "http://underscorejs.org/#values",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.values(object)"
+  },
+  {
+    "link": "http://underscorejs.org/#pairs",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.pairs(object)"
+  },
+  {
+    "link": "http://underscorejs.org/#invert",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.invert(object)"
+  },
+  {
+    "link": "http://underscorejs.org/#object-functions",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.functions(object)"
+  },
+  {
+    "link": "http://underscorejs.org/#extend",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.extend(destination, *sources)"
+  },
+  {
+    "link": "http://underscorejs.org/#pick",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.pick(object, *keys)"
+  },
+  {
+    "link": "http://underscorejs.org/#omit",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.omit(object, *keys)"
+  },
+  {
+    "link": "http://underscorejs.org/#defaults",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.defaults(object, *defaults)"
+  },
+  {
+    "link": "http://underscorejs.org/#clone",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.clone(object)"
+  },
+  {
+    "link": "http://underscorejs.org/#tap",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.tap(object, interceptor)"
+  },
+  {
+    "link": "http://underscorejs.org/#has",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.has(object, key)"
+  },
+  {
+    "link": "http://underscorejs.org/#isEqual",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.isEqual(object, other)"
+  },
+  {
+    "link": "http://underscorejs.org/#isEmpty",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.isEmpty(object)"
+  },
+  {
+    "link": "http://underscorejs.org/#isElement",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.isElement(object)"
+  },
+  {
+    "link": "http://underscorejs.org/#isArray",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.isArray(object)"
+  },
+  {
+    "link": "http://underscorejs.org/#isObject",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.isObject(value)"
+  },
+  {
+    "link": "http://underscorejs.org/#isArguments",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.isArguments(object)"
+  },
+  {
+    "link": "http://underscorejs.org/#isFunction",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.isFunction(object)"
+  },
+  {
+    "link": "http://underscorejs.org/#isString",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.isString(object)"
+  },
+  {
+    "link": "http://underscorejs.org/#isNumber",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.isNumber(object)"
+  },
+  {
+    "link": "http://underscorejs.org/#isFinite",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.isFinite(object)"
+  },
+  {
+    "link": "http://underscorejs.org/#isBoolean",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.isBoolean(object)"
+  },
+  {
+    "link": "http://underscorejs.org/#isDate",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.isDate(object)"
+  },
+  {
+    "link": "http://underscorejs.org/#isRegExp",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.isRegExp(object)"
+  },
+  {
+    "link": "http://underscorejs.org/#isNaN",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.isNaN(object)"
+  },
+  {
+    "link": "http://underscorejs.org/#isNull",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.isNull(object)"
+  },
+  {
+    "link": "http://underscorejs.org/#isUndefined",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.isUndefined(value)"
+  },
+  {
+    "link": "http://underscorejs.org/#utility",
+    "language": "js",
+    "lib": "underscore",
+    "func": ""
+  },
+  {
+    "link": "http://underscorejs.org/#noConflict",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.noConflict()"
+  },
+  {
+    "link": "http://underscorejs.org/#identity",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.identity(value)"
+  },
+  {
+    "link": "http://underscorejs.org/#times",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.times(n, iterator, [context])"
+  },
+  {
+    "link": "http://underscorejs.org/#random",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.random(min, max)"
+  },
+  {
+    "link": "http://underscorejs.org/#mixin",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.mixin(object)"
+  },
+  {
+    "link": "http://underscorejs.org/#uniqueId",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.uniqueId([prefix])"
+  },
+  {
+    "link": "http://underscorejs.org/#escape",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.escape(string)"
+  },
+  {
+    "link": "http://underscorejs.org/#unescape",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.unescape(string)"
+  },
+  {
+    "link": "http://underscorejs.org/#result",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.result(object, property)"
+  },
+  {
+    "link": "http://underscorejs.org/#template",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.template(templateString, [data], [settings])"
+  },
+  {
+    "link": "http://underscorejs.org/#chaining",
+    "language": "js",
+    "lib": "underscore",
+    "func": ""
+  },
+  {
+    "link": "http://underscorejs.org/#chain",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_.chain(obj)"
+  },
+  {
+    "link": "http://underscorejs.org/#value",
+    "language": "js",
+    "lib": "underscore",
+    "func": "_(obj).value()"
+  }
+]
