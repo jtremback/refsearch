@@ -1,12 +1,12 @@
 <html>
 	<head>
 		<%- @getBlock("meta").toHTML() %>
-		<%- @getBlock("styles").add(["/stylesheets/site.css", "/vendor/jquery-ui-1.10.2.custom.css"]).toHTML() %>
+		<%- @getBlock("styles").add(["stylesheets/site.css"]).toHTML() %>
 	</head>
 	<body>
 		<div class="content">
 			<%- @content %>
 		</div>
-		<%- @getBlock("scripts").add([ "/vendor/jquery191.js", "/vendor/jquery-ui-1.10.2.custom.js", "/vendor/lunr.js", "/vendor/doT.js", "/scripts/script.js" ]).toHTML() %>
+		<%- @getBlock("scripts").add([ "vendor/jquery191.js", "vendor/underscore.js", "vendor/backbone.js", "vendor/lunr.js", "vendor/doT.js", "scripts/script.js" ]).toHTML() %>
 	</body>
 </html>

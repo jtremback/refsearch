@@ -1,16 +1,4 @@
-// var deferredArr = $.map($(".dynaload"), function(el, i) {
-// 		return $.ajax({
-// 				url: $(el).data("loadUrl"),
-// 				success: function(html) {
-// 						$(el).html(html);
-// 				}
-// 		});
-// });
-// $.when.apply(this, deferredArr).then(function() {
-// 		console.log("All Done Loading!");
-// });
 
-//==============================================================================
 var toget = ["data/backbone.json", "data/underscore.json"];
 var db = [];
 var deferredArr = $.map(toget, function(el, i) {
@@ -24,34 +12,6 @@ var deferredArr = $.map(toget, function(el, i) {
 $.when.apply(this, deferredArr).then(function() {
 		console.log("All Done Loading!" + db);
 });
-
-//Get libraries from index (will be text input box)
-//Add libraries to idx
-// var db = []
-
-// $.getJSON("../data/00_INDEX.json", function(json) {
-// 	var expected = json.length;
-// 	console.log("expected: " + expected);
-
-// 	var defarr = [];
-
-// 	for (i = 0; i < expected; i++) {
-// 		var url = "../data/" + json[i] + ".json";
-
-
-// 		$.getJSON(url, function(json) {
-// 			db.push.apply(db, json);
-// 			console.log("getting: " + db);
-// 		});
-
-// 	}
-// })
-
-// $.when.apply($, defarr).done(bagNtag(db))
-
-// function getLib(url) {
-
-// }
 
 
 //Add sequential number to ref units and add them to lunr idx
@@ -132,74 +92,6 @@ $(document).ready(function () {
 		}
 });
 
-
-
-
-//JQUERY UI MULTISELECT
-// $(function() {
-//     var availableTags = [
-//       "ActionScript",
-//       "AppleScript",
-//       "Asp",
-//       "BASIC",
-//       "C",
-//       "C++",
-//       "Clojure",
-//       "COBOL",
-//       "ColdFusion",
-//       "Erlang",
-//       "Fortran",
-//       "Groovy",
-//       "Haskell",
-//       "Java",
-//       "JavaScript",
-//       "Lisp",
-//       "Perl",
-//       "PHP",
-//       "Python",
-//       "Ruby",
-//       "Scala",
-//       "Scheme"
-//     ];
-//     function split( val ) {
-//       return val.split( /,\s*/
-//     }
-//     function extractLast( term ) {
-//       return split( term ).pop();
-//     }
-
-//     $( "#search" )
-//       // don't navigate away from the field on tab when selecting an item
-//       .bind( "keydown", function( event ) {
-//         if ( event.keyCode === $.ui.keyCode.TAB &&
-//             $( this ).data( "ui-autocomplete" ).menu.active ) {
-//           event.preventDefault();
-//         }
-//       })
-//       .autocomplete({
-//         minLength: 0,
-//         source: function( request, response ) {
-//           // delegate back to autocomplete, but extract the last term
-//           response( $.ui.autocomplete.filter(
-//             availableTags, extractLast( request.term ) ) );
-//         },
-//         focus: function() {
-//           // prevent value inserted on focus
-//           return false;
-//         },
-//         select: function( event, ui ) {
-//           var terms = split( this.value );
-//           // remove the current input
-//           terms.pop();
-//           // add the selected item
-//           terms.push( ui.item.value );
-//           // add placeholder to get the comma-and-space at the end
-//           terms.push( "" );
-//           this.value = terms.join( ", " );
-//           return false;
-//         }
-//       });
-//   });
 
 //BACKBONE DOC SCRAPER
 // var url = "http://backbonejs.org/";
