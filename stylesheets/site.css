@@ -1,0 +1,8 @@
+html{font-size:16px}
+.search{font-size:2em;border:1px solid #aaa;outline:none}
+#func-list .list{list-style-type:none;margin:0;padding:0}
+.property{color:#f00}
+.object_base{color:#008000}
+.method{color:#ffa500}
+.result .fingerprint{font-family:monospace;font-size:1.2em}
+.result .library{font-family:sans-serif}

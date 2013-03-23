@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <meta http-equiv="X-Powered-By" content="DocPad"/>
+        <link  rel="stylesheet" href="stylesheets/site.css" />
+    </head>
+    <body>
+        <input class="search" id="box"></input>
+
+<ul id="results-list"></ul>
+
+<script id="result_tmpl" type="text/x-dot-template">
+  {{~it :value:index}}
+    <li class="result">
+      <div class="fingerprint"><a href="{{=value.link}}">{{=value.func}}</a></div>
+      <div class="library">{{=value.lib}}</div>
+    </li>
+  {{~}}
+</script>
+        <script defer="defer"  src="vendor/jquery191.js"></script><script defer="defer"  src="vendor/list.js"></script><script defer="defer"  src="vendor/lunr.js"></script><script defer="defer"  src="vendor/doT.js"></script><script defer="defer"  src="scripts/script.js"></script>
+    </body>
+</html>
