@@ -1,0 +1,23 @@
+---
+title: "Welcome!"
+layout: "default"
+isPage: true
+---
+
+<div id="searchtainer">
+  <label for="search">refsearch.net</label>
+  <input autocomplete="off" name="search" id="search" type="text"></input>
+  <!-- <label for="using">i'm using:</label>
+  <input name="using" id="using" type="text"></input>
+   -->
+  <ul id="results-list"></ul>
+</div>
+
+<script id="result_tmpl" type="text/x-dot-template">
+  {{~it :value:index}}
+    <li class="result">
+      <div class="fingerprint">{{=value.func}}</div>
+      <div class="library">{{=value.lib}}</div>
+    </li>
+  {{~}}
+</script>
