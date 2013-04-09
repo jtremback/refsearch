@@ -1,8 +1,8 @@
 
 var toget = ["data/backbone.json", "data/underscore.json"];
 var db = [];
-var deferredArr = $.map(toget, function(el, i) {
 
+var deferredArr = $.map(toget, function(el, i) {
 	return $.getJSON(el, function(json) {
 		db.push.apply(db, json);
 	});
@@ -27,21 +27,6 @@ function bagNtag(db) {
 	}
 	console.log("bagntag: " + db);
 }
-
-
-
-
-
-function callbizzle() {
-	console.log("callbizzle: " + db);
-}
-
-
-
-var idx = lunr(function () {
-	this.field('func', { boost: 10 })
-})
-
 
 
 //Live Search
