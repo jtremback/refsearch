@@ -1,19 +1,4 @@
 
-var toget = ["data/backbone.json", "data/underscore.json"];
-var db = [];
-
-var deferredArr = $.map(toget, function(el, i) {
-	return $.getJSON(el, function(json) {
-		db.push.apply(db, json);
-	});
-
-});
-
-$.when.apply(this, deferredArr).then(function() {
-		console.log("All Done Loading!" + db);
-});
-
-
 //Add sequential number to ref units and add them to lunr idx
 var idx = lunr(function () {
 	this.field('func', { boost: 10 })
@@ -29,10 +14,27 @@ function bagNtag(db) {
 }
 
 
+var toget = ["data/backbone.json", "data/underscore.json"];
+var db = [];
+
+var deferredArr = $.map(toget, function(el, i) {
+	return $.getJSON(el, function(json) {
+		db.push.apply(db, json);
+	});
+
+});
+
+$.when.apply(this, deferredArr).then(function() {
+		console.log("All Done Loading!" + db);
+		bagNtag(db);
+});
+
+
 //Live Search
 //Reacts to keyup in the input and waits for a certain amount of time before
 //calling searc func
-var typewatch = function(){
+var typewatch = function(callback, ms){
+		console.log("typewatch");
 		var timer = 0;
 		return function(callback, ms){
 				clearTimeout (timer);
@@ -64,6 +66,7 @@ var searchRender = function(results) {
 }
 
 $(document).ready(function () {
+	console.log("ready");
 	document.getElementById('search').onkeyup = function () {
 		typewatch(function(){
 			var value = document.getElementById('search').value;
