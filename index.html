@@ -1,0 +1,32 @@
+<html>
+  <head>
+    <title>Refsearch</title>
+    <link href="./styles/style.css" rel="stylesheet" type="text/css">
+  </head>
+
+  <body>
+    <div class="content">
+      <div id="searchtainer">
+        <label for="search">refsearch</label>
+        <input autocomplete="off" name="search" id="search" type="text"></input>
+        <div class="results-label">Results: </div>
+        <ul id="results-list"></ul>
+      </div>
+    </div>
+
+    <script id="result_tmpl" type="text/x-dot-template">
+      {{~it :value:index}}
+        <li class="result">
+          <a href="{{=value.link}}" class="fingerprint">{{=value.func}}</a>
+          <div class="library"><span class="label">library: </span>{{=value.lib}}</div>
+        </li>
+      {{~}}
+    </script>
+
+    <script src="./vendor/jquery191.js"></script>
+    <script src="./vendor/lunr.js"></script>
+    <script src="./vendor/doT.js"></script>
+    <script src="./scripts/script.js"></script>
+  </body>
+
+</html>
